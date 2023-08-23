@@ -103,7 +103,7 @@
  
 <br>
 <div>
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="25" height="25" />  𝐒𝐞𝐞 𝐲𝐨𝐮 𝐬𝐨𝐨𝐧  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="25" height="35" /></h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="25" height="25" />  𝐒𝐞𝐞 𝐲𝐨𝐮 𝐬𝐨𝐨𝐧  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="25" height="25" /></h2>
 <p align="center">
   <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Only%20those%20who%20do%20not%20give%20up%20will%20be%20lucky.&l0=1a0433&l1=5208af&l2=531c94&l3=390571&l4=360574&bg=120228&speed=85&comment="">
   <img alt="GIF" src="https://github.com/grrrance/grrrance/blob/main/images/hacker.gif"/>
