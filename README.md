@@ -13,7 +13,7 @@
 <div align="center">
   <img alt="GIF" src="https://github.com/grrrance/grrrance/blob/main/images/blue-lock-ego.gif"/>
   <br>
-  <p>𝚃𝚘 𝚠𝚒𝚗, 𝙸 𝚑𝚊𝚟𝚎 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚗𝚎𝚠 𝚟𝚎𝚜𝚒𝚘𝚗 𝚘𝚏 𝚖𝚢𝚜𝚎𝚕𝚏 𝚎𝚟𝚎𝚛𝚢 𝚝𝚒𝚖𝚎.</p>
+  <p>𝚃𝚘 𝚠𝚒𝚗, 𝙸 𝚑𝚊𝚟𝚎 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚗𝚎𝚠 𝚟𝚎r𝚜𝚒𝚘𝚗 𝚘𝚏 𝚖𝚢𝚜𝚎𝚕𝚏 𝚎𝚟𝚎𝚛𝚢 𝚝𝚒𝚖𝚎.</p>
 <p><a href="https://www.youtube.com/watch?v=HeA52YmBNUo">𝙱𝚕𝚞𝚎 𝙻𝚘𝚌𝚔</a><p>
   
 </div>
